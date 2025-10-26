@@ -1,3 +1,9 @@
+teste de la connexion de la bdd avec mon IDE PHPStorm :
+
+
+<img width="453" height="277" alt="Capture d’écran 2025-10-26 à 06 25 43" src="https://github.com/user-attachments/assets/172faa3a-d327-4d14-bfc3-64d434654ea8" />
+
+
 INSTALLATION DE L"APPLICATION:
 
 
