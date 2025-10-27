@@ -1,3 +1,10 @@
+test email:
+
+
+![Herd3](https://github.com/user-attachments/assets/5113cb3f-88d1-4785-8341-841b5e6ab71f)
+
+
+
 teste de la connexion de la bdd avec mon IDE PHPStorm :
 
 
